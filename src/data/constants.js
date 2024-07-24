@@ -12,7 +12,7 @@ export const Bio = {
     "I'm a CS student and also CNCF Enthusiast, familier with full-stack development. Proven open-source contributor in the Cloud and DevOps community, known for collaborative, solving the problems and knowledge sharing. Eager to apply skills and innovation in a cloud and devops based role.",
   github: "https://github.com/yuva19102003",
   resume:
-    "https://drive.google.com/file/d/1DsvbAvo_R30JVzOcK2MnA95Z5-UofKu7/view?usp=sharing",
+    "https://drive.google.com/file/d/1Y2Nv26qyfSvPz8ojoGAk4vmKaKORBvR_/view",
   linkedin: "https://www.linkedin.com/in/yuvaraj-k-6921b824b",
   twitter: "https://www.credly.com/users/yuvaraj-k.579f6e46",
   insta: "https://www.instagram.com/im_not_yuva/",
@@ -526,7 +526,7 @@ export const certificates = [
       "https://linktr.ee/og/image/teachnook.jpg",
     tags: ["AWS", "Cloud"],
     category: "Intership",
-    source: "https://drive.google.com/file/d/1xzLt9bqUuZwODap4lu1RC7hrvMogwbK6/view?usp=drive_link",
+    source: "https://drive.google.com/file/d/1d4v1cDIqIesjQhtmmOe9iG7uvRwNSwKj/view?usp=sharing",
   },
   {
     id: 1,
@@ -538,7 +538,7 @@ export const certificates = [
       "https://weclouddata.com/wp-content/uploads/2021/09/DEvOps-Bootcamp.png.webp",
     tags: ["AWS EC2", "git", "jenkins", "Linux", "Github"],
     category: "Workshop",
-    source: "https://drive.google.com/file/d/1-1qxqIDWmcuqyZzeeXF9wCd1G2Tgc1rH/view",
+    source: "https://drive.google.com/file/d/1M0oKgVdUNVU634Mz7q2LURyFutYXEvVm/view?usp=sharing",
   },
   {
     id: 2,
@@ -548,7 +548,7 @@ export const certificates = [
       "It is an 30 Days Workshop of Learning Data Analytics from futurex net",
     image:
       "https://media.slidesgo.com/storage/54451131/responsive-images/0-data-analysis-workshop___media_library_original_548_308.jpg",
-    source: "https://drive.google.com/file/d/1--y-wq-NkltMsBuyHaMAkaGUeM_OH-8x/view?usp=drivesdk",
+    source: "https://drive.google.com/file/d/15sW6fpKY3Spet-GifhfSl2Ndv4pDANSD/view?usp=sharing",
 
     tags: ["MS Excel", "PowerBI", "Tableau", "Python", "NumPY", "Pandas"],
     category: "Workshop",
@@ -562,7 +562,7 @@ export const certificates = [
       "In that Series,I joined in three intermediate level sessions and three beginners sessions. Through these sessions I learned about serverless computing,cloud migration, deploying the containerised application.",
     image:
       "https://d2908q01vomqb2.cloudfront.net/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f/2022/01/17/AWS-Builders-Online-Series_2022-Q1_Paid-banner-2560x1440_V1.png",
-    source: "https://www.linkedin.com/posts/yuvaraj-k-6921b824b_awscommunitybuilders-aws-awscloud-activity-7090163623330795520-9w9b/",
+    source: "https://drive.google.com/file/d/1rXUmwiQZQkqT5iuorjv4QuCtJCfugMZb/view?usp=sharing",
     tags: ["AWS serverless computing", "cloud migration", "deploying the containerised application"],
     category: "Workshop",
   },
@@ -575,7 +575,7 @@ export const certificates = [
       "In that Conference, I joined in intermediate Level Sessions and beginners sessions. Through these sessions I Learned about IAM, S3, EC2 and Lambda",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsOOoSZRMAjK3tpqqwDc0QutrPEyJpLP4cZ9m-j8gBHgEPC7_mj-0TBgwF-xgLCrdCwLA&usqp=CAU",
-    source: "https://www.linkedin.com/posts/yuvaraj-k-6921b824b_im-happy-to-share-that-ive-obtained-a-new-activity-7077681155038187520-HfZW?utm_source=share&utm_medium=member_android",
+    source: "https://drive.google.com/file/d/1GrpVVLGVnmCo-RNUC4uAKom_D0hB42FW/view?usp=sharing8",
     tags: ["AWS IAM", "AWS S3", "AWS EC2", "AWS Lambda"],
     category: "Workshop",
   },
@@ -587,7 +587,7 @@ export const certificates = [
       "I completed my one Month AWS Course in TEACHNOOK (TEACHSCAPE ONLINE LEARNING SERVICES PRIVATE LIMITED). Credential ID: TNAWSINT23-116",
     image:
       "https://linktr.ee/og/image/teachnook.jpg",
-    source: "https://drive.google.com/file/d/1emGrvGkmFWRitqu68mg2NpqUb1O64H1P/view?usp=drive_link",
+    source: "https://drive.google.com/file/d/1MWI8pzH1nyjJGor1isWKGxvRXdPppJuQ/view?usp=sharing",
     tags: ["AWS EC2", "AWS S3", "AWS EBS", "AWS IAM"],
     category: "Cloud",
   },
@@ -647,7 +647,7 @@ export const certificates = [
       "The OOPs in Python course talks about the Basics of object-oriented programming in Python. It will talk about Objects and Classes in Python and how the implementation in Python works. Creating a class, object, and methods are discussed in detail in this Python OOPs course",
     image:
       "https://www.riseupp.com/_next/image?url=https%3A%2F%2Friseupp-course-images-prod.s3.amazonaws.com%2F%2Fimages%2Fcourses%2F65745a294d1eb3f6b8b15dc2-thumbnail.png&w=3840&q=75",
-    source: "https://drive.google.com/file/d/1-7CcnEmkpHrjgqYnavzZiC1pDE7U0Xv5/view?usp=drivesdk",
+    source: "https://drive.google.com/file/d/17Me-vNUNeiZRvvazh1kl2Yj0xhivs-5K/view?usp=sharing",
     tags: ["Python (Programming Language)", "Object-Oriented Programming (OOP)",],
     category: "Devops",
   },
@@ -674,5 +674,17 @@ export const certificates = [
     source: "http://certificates-edu.s3.amazonaws.com/czoxMzoiNDU0Njg2Ml8xMDAwMiI7",
     tags: ["HTML5", "Cascading Style Sheets (CSS)", "MongoDB", "JavaScript"],
     category: "Devops",
+  },
+  {
+    id: 13,
+    title: "MATLAB Onramp",
+    date: "3 September 2022",
+    description:
+      "The course walks you through the basics of using MATLAB, including performing calculations with commands, importing data from external sources, and visualizing data using plotting functions.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/670px-Matlab_Logo.png",
+    source: "https://drive.google.com/file/d/1OGRt4jKxBRVvqYkyYUaxpBveOtUPeIOb/view?usp=sharing",
+    tags: ["Algorithm", "Analysis", "Visualization", "Data", "MATLAB"],
+    category: "Workshop",
   },
 ];
