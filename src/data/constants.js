@@ -310,7 +310,7 @@ export const education = [
     img: "https://raw.githubusercontent.com/yuva19102003/github-user-content-raw/master/portfolio-source-images/clg.jpeg",
     school: "Dhanalakshmi Srinivasan Engineering College (Autonomous), Perambalur",
     date: "Oct 2021 - Sep 2025",
-    grade: "8.96 CGPA",
+    grade: "9.01 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at dhanalakshmi srinivasan engineering college (Autonomous), perambalur. I have completed 5 semesters and have a CGPA of 8.96. I have taken courses in cloud computing, DEVOPS, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. where I am learning and working on exciting projects.",
     degree: "Bachelor of Engineering - BE, Computer Science and Engineering",
   },
